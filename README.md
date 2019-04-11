@@ -16,3 +16,4 @@ Our main purpose is help for other programmers.
 ## 4. Update And Modify Date
 
 **1:** 7.04.2019 Creating the Readme.md
+**2:** 1.04.2019 Creating the Contributing.md
